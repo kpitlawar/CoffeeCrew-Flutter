@@ -26,7 +26,7 @@ class Home extends StatelessWidget {
       value: DatabaserServcie().brews,
           child: Scaffold(
         backgroundColor: Colors.brown[50],
-        appBar: AppBar(title: Text('Brew Crew'),
+        appBar: AppBar(title: Text('Welcome to Brew Crew'),
         backgroundColor: Colors.brown[400],
         elevation: 0.0,
         actions: [
